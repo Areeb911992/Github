@@ -6,3 +6,5 @@ How to Build a connection to a SQL database
 Run Simple Queries and read them into a DataFrame
 Run Complex Queries and read them into a DataFrame
 Part 2 : Set Up the Environment to connect to MYSQL server
+Part 3 : Run Simple Query
+PART 4 : Run Complex Query
